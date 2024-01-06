@@ -1,4 +1,10 @@
+<p align="center">
 
+## Olá mundo! Me chamo João Guilherme 👋
+
+</p>
+
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoGui3&show_icons=true&theme=midnight-purple" />
 </a>
